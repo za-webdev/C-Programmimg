@@ -1,0 +1,12 @@
+c:\users\zali\documents\visual studio 2015\Projects\strings2\strings2\bin\Debug\strings2.exe.config
+c:\users\zali\documents\visual studio 2015\Projects\strings2\strings2\bin\Debug\strings2.exe
+c:\users\zali\documents\visual studio 2015\Projects\strings2\strings2\bin\Debug\strings2.pdb
+c:\users\zali\documents\visual studio 2015\Projects\strings2\strings2\obj\Debug\strings2.csprojResolveAssemblyReference.cache
+c:\users\zali\documents\visual studio 2015\Projects\strings2\strings2\obj\Debug\strings2.exe
+c:\users\zali\documents\visual studio 2015\Projects\strings2\strings2\obj\Debug\strings2.pdb
+C:\Users\zali\Documents\C#projects\c#\strings2\strings2\bin\Debug\strings2.exe.config
+C:\Users\zali\Documents\C#projects\c#\strings2\strings2\obj\Debug\strings2.exe
+C:\Users\zali\Documents\C#projects\c#\strings2\strings2\obj\Debug\strings2.pdb
+C:\Users\zali\Documents\C#projects\strings2\strings2\bin\Debug\strings2.exe.config
+C:\Users\zali\Documents\C#projects\strings2\strings2\obj\Debug\strings2.exe
+C:\Users\zali\Documents\C#projects\strings2\strings2\obj\Debug\strings2.pdb
