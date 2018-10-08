@@ -1,0 +1,18 @@
+c:\users\zali\documents\visual studio 2015\Projects\helloWorld\helloWorld\bin\Debug\helloWorld.exe.config
+c:\users\zali\documents\visual studio 2015\Projects\helloWorld\helloWorld\bin\Debug\helloWorld.exe
+c:\users\zali\documents\visual studio 2015\Projects\helloWorld\helloWorld\bin\Debug\helloWorld.pdb
+c:\users\zali\documents\visual studio 2015\Projects\helloWorld\helloWorld\obj\Debug\helloWorld.csprojResolveAssemblyReference.cache
+c:\users\zali\documents\visual studio 2015\Projects\helloWorld\helloWorld\obj\Debug\helloWorld.exe
+c:\users\zali\documents\visual studio 2015\Projects\helloWorld\helloWorld\obj\Debug\helloWorld.pdb
+C:\Users\zali\Documents\C#projects\c#\helloWorld\helloWorld\bin\Debug\helloWorld.exe.config
+C:\Users\zali\Documents\C#projects\c#\helloWorld\helloWorld\obj\Debug\helloWorld.exe
+C:\Users\zali\Documents\C#projects\c#\helloWorld\helloWorld\obj\Debug\helloWorld.pdb
+C:\Users\zali\Documents\C#projects\c#\helloWorld\helloWorld\bin\Debug\helloWorld.exe
+C:\Users\zali\Documents\C#projects\c#\helloWorld\helloWorld\bin\Debug\helloWorld.pdb
+C:\Users\zali\Documents\C#projects\c#\helloWorld\helloWorld\obj\Debug\helloWorld.csprojResolveAssemblyReference.cache
+C:\Users\zali\Documents\C#projects\helloWorld\helloWorld\bin\Debug\helloWorld.exe.config
+C:\Users\zali\Documents\C#projects\helloWorld\helloWorld\obj\Debug\helloWorld.exe
+C:\Users\zali\Documents\C#projects\helloWorld\helloWorld\obj\Debug\helloWorld.pdb
+C:\Users\zali\Documents\C#projects\helloWorld\helloWorld\obj\Debug\helloWorld.csprojResolveAssemblyReference.cache
+C:\Users\zali\Documents\C#projects\helloWorld\helloWorld\bin\Debug\helloWorld.exe
+C:\Users\zali\Documents\C#projects\helloWorld\helloWorld\bin\Debug\helloWorld.pdb
