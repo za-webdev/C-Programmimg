@@ -1,0 +1,9 @@
+c:\users\zali\documents\visual studio 2015\Projects\Excersice\Excersice\bin\Debug\Excersice.exe.config
+c:\users\zali\documents\visual studio 2015\Projects\Excersice\Excersice\bin\Debug\Excersice.exe
+c:\users\zali\documents\visual studio 2015\Projects\Excersice\Excersice\bin\Debug\Excersice.pdb
+c:\users\zali\documents\visual studio 2015\Projects\Excersice\Excersice\obj\Debug\Excersice.exe
+c:\users\zali\documents\visual studio 2015\Projects\Excersice\Excersice\obj\Debug\Excersice.pdb
+c:\users\zali\documents\visual studio 2015\Projects\Excersice\Excersice\obj\Debug\Excersice.csprojResolveAssemblyReference.cache
+C:\Users\zali\Documents\C#projects\Excersice\Excersice\bin\Debug\Excersice.exe.config
+C:\Users\zali\Documents\C#projects\Excersice\Excersice\obj\Debug\Excersice.exe
+C:\Users\zali\Documents\C#projects\Excersice\Excersice\obj\Debug\Excersice.pdb
