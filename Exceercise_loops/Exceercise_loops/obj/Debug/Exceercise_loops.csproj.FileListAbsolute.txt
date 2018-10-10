@@ -1,0 +1,6 @@
+c:\users\zali\documents\visual studio 2015\Projects\Exceercise_loops\Exceercise_loops\bin\Debug\Exceercise_loops.exe.config
+c:\users\zali\documents\visual studio 2015\Projects\Exceercise_loops\Exceercise_loops\bin\Debug\Exceercise_loops.exe
+c:\users\zali\documents\visual studio 2015\Projects\Exceercise_loops\Exceercise_loops\bin\Debug\Exceercise_loops.pdb
+c:\users\zali\documents\visual studio 2015\Projects\Exceercise_loops\Exceercise_loops\obj\Debug\Exceercise_loops.csprojResolveAssemblyReference.cache
+c:\users\zali\documents\visual studio 2015\Projects\Exceercise_loops\Exceercise_loops\obj\Debug\Exceercise_loops.exe
+c:\users\zali\documents\visual studio 2015\Projects\Exceercise_loops\Exceercise_loops\obj\Debug\Exceercise_loops.pdb
