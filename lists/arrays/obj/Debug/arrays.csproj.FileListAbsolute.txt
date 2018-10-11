@@ -1,0 +1,9 @@
+c:\users\zali\documents\visual studio 2015\Projects\arrays\arrays\bin\Debug\arrays.exe.config
+c:\users\zali\documents\visual studio 2015\Projects\arrays\arrays\bin\Debug\arrays.exe
+c:\users\zali\documents\visual studio 2015\Projects\arrays\arrays\bin\Debug\arrays.pdb
+c:\users\zali\documents\visual studio 2015\Projects\arrays\arrays\obj\Debug\arrays.exe
+c:\users\zali\documents\visual studio 2015\Projects\arrays\arrays\obj\Debug\arrays.pdb
+c:\users\zali\documents\visual studio 2015\Projects\arrays\arrays\obj\Debug\arrays.csprojResolveAssemblyReference.cache
+C:\Users\zali\Documents\C#projects\arrays\arrays\bin\Debug\arrays.exe.config
+C:\Users\zali\Documents\C#projects\arrays\arrays\obj\Debug\arrays.exe
+C:\Users\zali\Documents\C#projects\arrays\arrays\obj\Debug\arrays.pdb
