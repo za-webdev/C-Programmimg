@@ -1,0 +1,10 @@
+C:\Users\zali\Documents\C#projects\c#\If-else conditionals\UnitPractice\bin\Debug\UnitPractice.dll
+C:\Users\zali\Documents\C#projects\c#\If-else conditionals\UnitPractice\bin\Debug\UnitPractice.pdb
+C:\Users\zali\Documents\C#projects\c#\If-else conditionals\UnitPractice\bin\Debug\If-else conditionals.exe
+C:\Users\zali\Documents\C#projects\c#\If-else conditionals\UnitPractice\bin\Debug\nunit.framework.dll
+C:\Users\zali\Documents\C#projects\c#\If-else conditionals\UnitPractice\bin\Debug\If-else conditionals.pdb
+C:\Users\zali\Documents\C#projects\c#\If-else conditionals\UnitPractice\bin\Debug\nunit.framework.pdb
+C:\Users\zali\Documents\C#projects\c#\If-else conditionals\UnitPractice\bin\Debug\nunit.framework.xml
+C:\Users\zali\Documents\C#projects\c#\If-else conditionals\UnitPractice\obj\Debug\UnitPractice.csprojResolveAssemblyReference.cache
+C:\Users\zali\Documents\C#projects\c#\If-else conditionals\UnitPractice\obj\Debug\UnitPractice.dll
+C:\Users\zali\Documents\C#projects\c#\If-else conditionals\UnitPractice\obj\Debug\UnitPractice.pdb

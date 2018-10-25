@@ -1,0 +1,13 @@
+c:\users\zali\documents\visual studio 2015\Projects\If-else conditionals\If-else conditionals\bin\Debug\If-else conditionals.exe.config
+c:\users\zali\documents\visual studio 2015\Projects\If-else conditionals\If-else conditionals\bin\Debug\If-else conditionals.exe
+c:\users\zali\documents\visual studio 2015\Projects\If-else conditionals\If-else conditionals\bin\Debug\If-else conditionals.pdb
+c:\users\zali\documents\visual studio 2015\Projects\If-else conditionals\If-else conditionals\obj\Debug\If-else conditionals.exe
+c:\users\zali\documents\visual studio 2015\Projects\If-else conditionals\If-else conditionals\obj\Debug\If-else conditionals.pdb
+C:\Users\zali\Documents\C#projects\c#\If-else conditionals\If-else conditionals\bin\Debug\If-else conditionals.exe.config
+C:\Users\zali\Documents\C#projects\c#\If-else conditionals\If-else conditionals\bin\Debug\If-else conditionals.exe
+C:\Users\zali\Documents\C#projects\c#\If-else conditionals\If-else conditionals\bin\Debug\If-else conditionals.pdb
+C:\Users\zali\Documents\C#projects\c#\If-else conditionals\If-else conditionals\obj\Debug\If-else conditionals.exe
+C:\Users\zali\Documents\C#projects\c#\If-else conditionals\If-else conditionals\obj\Debug\If-else conditionals.pdb
+C:\Users\zali\Documents\C#projects\If-else conditionals\If-else conditionals\bin\Debug\If-else conditionals.exe.config
+C:\Users\zali\Documents\C#projects\If-else conditionals\If-else conditionals\obj\Debug\If-else conditionals.exe
+C:\Users\zali\Documents\C#projects\If-else conditionals\If-else conditionals\obj\Debug\If-else conditionals.pdb
