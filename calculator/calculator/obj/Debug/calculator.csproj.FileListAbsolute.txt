@@ -1,0 +1,6 @@
+c:\users\zali\documents\visual studio 2015\Projects\calculator\calculator\bin\Debug\calculator.exe.config
+c:\users\zali\documents\visual studio 2015\Projects\calculator\calculator\bin\Debug\calculator.exe
+c:\users\zali\documents\visual studio 2015\Projects\calculator\calculator\bin\Debug\calculator.pdb
+c:\users\zali\documents\visual studio 2015\Projects\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+c:\users\zali\documents\visual studio 2015\Projects\calculator\calculator\obj\Debug\calculator.exe
+c:\users\zali\documents\visual studio 2015\Projects\calculator\calculator\obj\Debug\calculator.pdb
